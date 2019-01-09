@@ -17,4 +17,15 @@ public class LoginActivity extends Activity {
         setContentView(R.layout.activity_login);
 
     }
+
+
+    // TODO press enter to login or sign in
+
+    // TODO autocomplete username? use AccountManager
+
+    // TODO link to activity after login
+
+    // TODO toast: show logged in or signed up
+
+
 }
